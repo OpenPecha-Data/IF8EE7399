@@ -1,0 +1,16 @@
+id: IF8EE7399
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:20:12.383645
+last_modified: 2023-02-08 15:20:12.383747
+source_metadata:
+  title: 'PP: Ratnaguṇasaṃcayagāthā'
+  language: en
+bases:
+  B3B0:
+    base_file: B3B0.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
